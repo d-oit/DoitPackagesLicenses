@@ -1,5 +1,5 @@
 # D.o.it.Packages.Licenses
-Create Excel or Text Licenses File for used Nuget packages 
+Create Excel or Text Licenses File for used NuGet packages 
 
 
 Thank's to jz5
