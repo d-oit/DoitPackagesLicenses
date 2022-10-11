@@ -23,7 +23,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="2.2.0" />
     <PackageReference Include="NuGet.Common" Version="4.9.3" />
-    <PackageReference Include="NuGet.Protocol" Version="4.9.3" />
+    <PackageReference Include="NuGet.Protocol" Version="4.9.6+a32bce39889f724fbd11cfd12e946f802168b583" />
   </ItemGroup>
 
   <ItemGroup>

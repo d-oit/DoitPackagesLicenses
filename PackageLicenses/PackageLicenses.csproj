@@ -30,7 +30,7 @@ Download license text from GtiHub and  spdx.org.</Description>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
-    <PackageReference Include="NuGet.Protocol" Version="4.3.0" />
+    <PackageReference Include="NuGet.Protocol" Version="4.9.6+a32bce39889f724fbd11cfd12e946f802168b583" />
     <PackageReference Include="System.Net.Http" Version="4.3.2" />
   </ItemGroup>
 
